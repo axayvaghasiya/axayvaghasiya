@@ -1,4 +1,4 @@
-## Hey! I'm Khushboo Verma. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey! I'm Akshay Vaghasiya. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![GitHub vermakhushboo](https://img.shields.io/github/followers/axayvaghasiya?label=follow&style=social)](https://github.com/axayvaghasiya)
 [![Linkedin: Khushboo Verma](https://img.shields.io/badge/-Akshay%20Vaghasiya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshayvaghasiya/)](https://www.linkedin.com/in/akshayvaghasiya/)
