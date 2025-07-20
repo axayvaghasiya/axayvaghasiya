@@ -7,8 +7,10 @@
   
 I develop Websites, software, build technical communities, create content and love meeting new people!
 
-
+<!--
 [![Akshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=axayvaghasiya&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/axayvaghasiya/github-readme-stats)
+-->
+[![Akshay's GitHub Stats]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axayvaghasiya&layout=compact&theme=calm)](https://github.com/axayvaghasiya/github-readme-stats)
 
 
