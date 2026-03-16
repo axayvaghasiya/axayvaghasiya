@@ -16,7 +16,7 @@ Senior Shopify Engineer transitioning into AI Engineering. This project is part 
 
 | Project | Description | Tech |
 |---|---|---|
-| [Fashion Intelligence](https://github.com/axayvaghasiya/fashion-intelligence) | ML classification pipeline for 367k fashion products | Python · Scikit-learn · SMOTE |
+| [Fashion Intelligence](https://github.com/axayvaghasiya/Fashion-Intelligence-ML-Classification) | ML classification pipeline for 367k fashion products | Python · Scikit-learn · SMOTE |
 | [RAGify](https://github.com/axayvaghasiya/RAGify) | Enterprise RAG system with hybrid retrieval and multilingual support | Python · FAISS · Claude · FastAPI |
 
   ## 💰 You can help me by Donating
