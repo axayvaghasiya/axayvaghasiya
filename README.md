@@ -20,4 +20,5 @@ Senior Shopify Engineer transitioning into AI Engineering. This project is part 
 | [RAGify](https://github.com/axayvaghasiya/RAGify) | Enterprise RAG system with hybrid retrieval and multilingual support | Python · FAISS · Claude · FastAPI |
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/akshayvaghasiya) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/akshayvaghasiya) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/akshayvaghasiya) 
+ <!-- [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/akshayvaghasiya) -->
