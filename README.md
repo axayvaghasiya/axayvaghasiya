@@ -1,5 +1,5 @@
 # 💫 About Me:
-Senior Shopify Engineer transitioning into AI Engineering. This project is part of a portfolio that demonstrates production-grade ML systems, combining domain expertise in e-commerce with hands-on machine learning and data engineering.
+Senior Solutions Engineer transitioning into AI Solutions Engineering. This project is part of a portfolio that demonstrates production-grade ML systems, combining domain expertise in e-commerce with hands-on machine learning and data engineering.
 
 
 ## 🌐 Socials:
